@@ -1,5 +1,5 @@
 // CalculatorTutorial.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This is a simple console application that demonstrates the use of a Calculator class to perform basic arithmetic operations.
 
 #include <iostream>
 #include "Calculator.h"
